@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "934860007356",
+    "firebase_url": "https://tgscttnkul-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tgscttnkul",
+    "storage_bucket": "tgscttnkul.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934860007356:android:f46ee925f201d3b215adb9",
+        "android_client_info": {
+          "package_name": "com.example.matkul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOBi_FAZUEU4uXqmZnm_StF_yTvS4YOpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
